@@ -1,5 +1,5 @@
 # ModelDevelopment-BrainResearch
-This repository maintains the machine and deep learning model for Brain Research. There are four major components in the deep learning research.
+This repository maintains the machine and deep learning model for Brain Research. There are five major components in the deep learning research.
 
 1. Dataset
 2. Architecture
