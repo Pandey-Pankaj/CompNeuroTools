@@ -3,7 +3,7 @@ This repository maintains the machine and deep learning model for Brain Research
 
 1. Dataset
 2. Architecture
-3. Components of Architecture
+3. Components of Architecture (Feature Extractors)
 4. Loss Function
 5. Optimization
 
