@@ -36,3 +36,4 @@ The list encompasses the following projects and will be growing.
 24. Sleep stage classification
 25. Analysis of Major Depression Disorder
 26. Cognitive Load Estimation
+27. EEG time series augmentation
