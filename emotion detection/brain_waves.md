@@ -1,0 +1,5 @@
+1. [Review of the emotional feature extraction and classification using EEG signals](https://linkinghub.elsevier.com/retrieve/pii/S2667241321000033)
+2. [High Gamma Band EEG Closely Related to Emotion: Evidence From Functional Network](https://www.frontiersin.org/article/10.3389/fnhum.2020.00089/full)
+3. [Emotion classification based on gamma-band EEG](http://ieeexplore.ieee.org/document/5334139/)
+4. [Emotion and Brain Oscillations: High Arousal is Associated with Decreases in Alpha- and Lower Beta-Band Power](https://academic.oup.com/cercor/article/31/3/1597/5951764)
+5. [Investigating Critical Frequency Bands and Channels for EEG-Based Emotion Recognition with Deep Neural Networks](http://ieeexplore.ieee.org/document/7104132/)
