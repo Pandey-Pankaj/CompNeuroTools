@@ -1,12 +1,5 @@
 # ModelDevelopment-BrainResearch
-This repository maintains the signal processing, machine and deep learning model for Brain Research. There are five major components in the deep learning research. 
-
-1. Dataset
-2. Architecture
-3. Components of Architecture (Feature Extractors)
-4. Loss Function
-5. Optimization
-
+This repository maintains the computational(signal,ML and DL) and cognitive resources for Brain Research. 
 
 The list encompasses the following projects and will be growing. 
 
