@@ -12,3 +12,12 @@
 - [OpenNeuro](https://openneuro.org/)
 - [MegaMohit - List of EEG Datasets](https://github.com/meagmohit/EEG-Datasets)
 - [SCCN list of eeg/erp data for free public download](http://sccn.ucsd.edu/~arno/fam2data/publicly_available_EEG_data.html)
+
+
+#### Tutorials
+- [Neuromatch - EEG](https://compneuro.neuromatch.io/tutorials/W0D0_NeuroVideoSeries/student/W0D0_Tutorial7.html)
+- [Mike Cohen - EEG Analysis](https://mikexcohen.com/lectures.html) 
+- [Complete neural signal processing and analysis: Zero to hero](https://www.udemy.com/course/solved-challenges-ants/)
+
+
+##### [All-In-ONe NeuroTechX](https://github.com/NeuroTechX/awesome-bci)
