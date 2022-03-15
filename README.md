@@ -10,6 +10,8 @@ The important components for Brain Research:
      - Signal Processing 
      - Machine and Deep Learning Techniques 
 
+[Resources](resources.md)
+
 The list encompasses the following projects and will be growing. 
 
 1. Brain2text
