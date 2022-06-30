@@ -7,6 +7,7 @@
 - [Fieldtrip](https://www.fieldtriptoolbox.org/)
 - [EEG - DL](https://github.com/SuperBruceJia/EEG-DL)
 - [DL  Toolbox](https://pypi.org/project/Braindecode/)
+- [Time Series Analysis](https://github.com/unit8co/darts)
 
 #### Datasets
 - [OpenNeuro](https://openneuro.org/)
