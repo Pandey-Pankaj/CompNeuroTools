@@ -8,6 +8,7 @@
 - [EEG - DL](https://github.com/SuperBruceJia/EEG-DL)
 - [DL  Toolbox](https://pypi.org/project/Braindecode/)
 - [Time Series Analysis](https://github.com/unit8co/darts)
+- PyEEG [EEG feature extraction](https://github.com/forrestbao/pyeeg) 
 
 #### Datasets
 - [OpenNeuro](https://openneuro.org/)
