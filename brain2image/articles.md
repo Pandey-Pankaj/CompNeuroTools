@@ -6,3 +6,4 @@
 
 ### EEG
 1. [Brain2Image: Converting Brain Signals into Images](https://dl.acm.org/doi/abs/10.1145/3123266.3127907)
+2. [Decoding Brain Representations by Multimodal Learning of Neural Activity and Visual Features](https://arxiv.org/abs/1810.10974)
