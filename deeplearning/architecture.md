@@ -26,3 +26,6 @@
 
 ### Stimulus-Response Correlation
 1. [Deep Correlation Analysis for Audio-EEG Decoding](http://arxiv.org/abs/2105.08492)
+
+### Test-time adaptation
+1. [TENT: FULLY TEST-TIME ADAPTATION BY ENTROPY MINIMIZATION](https://arxiv.org/pdf/2006.10726.pdf)
