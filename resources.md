@@ -6,14 +6,15 @@
 - [EEGLAB](https://sccn.ucsd.edu/eeglab/index.php)
 - [Fieldtrip](https://www.fieldtriptoolbox.org/)
 
-#### Deep Learning
+#### Deep Learning Toolbox
 - [EEG - DL](https://github.com/SuperBruceJia/EEG-DL)
 - [DL  Toolbox](https://pypi.org/project/Braindecode/)
 - [DL-EEG](https://dl-eeg.com/)
 - [Continual Learning](https://avalanche.continualai.org/)
 
-#### Machine Learning
+#### Machine Learning Toolbox
 - [Muti View Learning](https://mvlearn.github.io/index.html#xu-2013)
+- [Scikit-Learn](https://scikit-learn.org/)
 
 #### Feature Extraction and Time Series Analysis
 - [Time Series Analysis](https://github.com/unit8co/darts)
