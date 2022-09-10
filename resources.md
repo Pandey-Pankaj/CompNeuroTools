@@ -5,11 +5,20 @@
 - [MNE](https://mne.tools/stable/index.html)
 - [EEGLAB](https://sccn.ucsd.edu/eeglab/index.php)
 - [Fieldtrip](https://www.fieldtriptoolbox.org/)
+
+#### Deep Learning
 - [EEG - DL](https://github.com/SuperBruceJia/EEG-DL)
 - [DL  Toolbox](https://pypi.org/project/Braindecode/)
+- [DL-EEG](https://dl-eeg.com/)
+- [Continual Learning](https://avalanche.continualai.org/)
+
+#### Machine Learning
+- [Muti View Learning](https://mvlearn.github.io/index.html#xu-2013)
+
+#### Feature Extraction and Time Series Analysis
 - [Time Series Analysis](https://github.com/unit8co/darts)
 - [PyEEG EEG feature extraction](https://github.com/forrestbao/pyeeg) 
-- [DL-EEG](https://dl-eeg.com/)
+- [MNE Features](https://mne.tools/mne-features/)
 
 #### Datasets
 - [OpenNeuro](https://openneuro.org/)
