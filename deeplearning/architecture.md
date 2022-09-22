@@ -29,3 +29,6 @@
 
 ### Test-time adaptation
 1. [TENT: FULLY TEST-TIME ADAPTATION BY ENTROPY MINIMIZATION](https://arxiv.org/pdf/2006.10726.pdf)
+
+### Transformer
+1. [Modified transformer network utilizing the attention mechanism for time series or any other numerical data](https://github.com/redevaaa/Transformer-for-EEG)
