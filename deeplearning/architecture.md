@@ -32,3 +32,6 @@
 
 ### Transformer
 1. [Modified transformer network utilizing the attention mechanism for time series or any other numerical data](https://github.com/redevaaa/Transformer-for-EEG)
+
+### Hybrid Deep Learning
+1. [Hybrid Deep Learning (hDL)-Based Brain-Computer Interface (BCI) Systems: A Systematic Review](https://www.mdpi.com/2076-3425/11/1/75)
