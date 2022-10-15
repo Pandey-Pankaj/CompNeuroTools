@@ -7,6 +7,7 @@ Two objectives : Monitoring Progress and NeuroFeedback
 3. Rest Vs. Meditation
 4. Drowsiness Vs. Non-Drowsiness
 5. Meditation style similarities and differences
+6. Mind Wandering Detection
 
  [1] P. Pandey and K. Prasad Miyapuram, “Classifying Oscillatory Signatures of Expert vs NonExpert Meditators,” in 2020 International Joint Conference on Neural Networks (IJCNN), 2020, pp. 1–7, doi: 10.1109/IJCNN48605.2020.9207340.
  
