@@ -21,6 +21,7 @@
 - [Time Series Analysis](https://github.com/unit8co/darts)
 - [PyEEG EEG feature extraction](https://github.com/forrestbao/pyeeg) 
 - [MNE Features](https://mne.tools/mne-features/)
+- [Highly comparative time-series analysis](https://github.com/benfulcher/hctsa)
 
 #### Datasets
 - [OpenNeuro](https://openneuro.org/)
