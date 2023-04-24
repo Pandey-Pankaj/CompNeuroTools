@@ -11,7 +11,7 @@
 - [DL  Toolbox](https://pypi.org/project/Braindecode/)
 - [DL-EEG](https://dl-eeg.com/)
 - [Continual Learning](https://avalanche.continualai.org/)
-- [Brain Decode] (https://braindecode.org/stable/api.html)
+- [Brain Decode](https://braindecode.org/stable/api.html)
 
 #### Machine Learning Toolbox
 - [Muti View Learning](https://mvlearn.github.io/index.html#xu-2013)
