@@ -11,11 +11,13 @@
 - [DL  Toolbox](https://pypi.org/project/Braindecode/)
 - [DL-EEG](https://dl-eeg.com/)
 - [Continual Learning](https://avalanche.continualai.org/)
+- [Brain Decode] (https://braindecode.org/stable/api.html)
 
 #### Machine Learning Toolbox
 - [Muti View Learning](https://mvlearn.github.io/index.html#xu-2013)
 - [Scikit-Learn](https://scikit-learn.org/)
 - [MLXTEND](http://rasbt.github.io/mlxtend/#examples)
+- [Lazy Predict](https://pypi.org/project/lazypredict/)
 
 #### Feature Extraction and Time Series Analysis
 - [Time Series Analysis](https://github.com/unit8co/darts)
