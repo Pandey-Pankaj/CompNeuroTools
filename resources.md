@@ -30,6 +30,7 @@
 - [MegaMohit - List of EEG Datasets](https://github.com/meagmohit/EEG-Datasets)
 - [SCCN list of eeg/erp data for free public download](http://sccn.ucsd.edu/~arno/fam2data/publicly_available_EEG_data.html)
 - [OSF](https://osf.io/)
+- [NeuroTechx Datasets](https://neurotechx.github.io/moabb/datasets.html)
 
 
 #### Tutorials
