@@ -5,6 +5,10 @@
 - [MNE](https://mne.tools/stable/index.html)
 - [EEGLAB](https://sccn.ucsd.edu/eeglab/index.php)
 - [Fieldtrip](https://www.fieldtriptoolbox.org/)
+- [BrainFlow](https://brainflow.readthedocs.io/en/stable/index.html#)
+
+#### RealTime Decoding
+- [NeuroDecode](https://github.com/dbdq/neurodecode)
 
 #### Deep Learning Toolbox
 - [EEG - DL](https://github.com/SuperBruceJia/EEG-DL)
@@ -24,6 +28,7 @@
 - [PyEEG EEG feature extraction](https://github.com/forrestbao/pyeeg) 
 - [MNE Features](https://mne.tools/mne-features/)
 - [Highly comparative time-series analysis](https://github.com/benfulcher/hctsa)
+- [TSFEL - Time Series Feature Extraction Library](https://github.com/ElsevierSoftwareX/SOFTX_2020_1)
 
 #### Datasets
 - [OpenNeuro](https://openneuro.org/)
