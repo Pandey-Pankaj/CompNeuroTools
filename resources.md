@@ -1,11 +1,12 @@
 ### Resources
 
 
-#### Softwares for EEG
+#### Softwares for EEG and Neuroscience
 - [MNE](https://mne.tools/stable/index.html)
 - [EEGLAB](https://sccn.ucsd.edu/eeglab/index.php)
 - [Fieldtrip](https://www.fieldtriptoolbox.org/)
 - [BrainFlow](https://brainflow.readthedocs.io/en/stable/index.html#)
+- [Neuroscience as a Service (NAAS)](https://www.neurocaas.org/)
 
 #### RealTime Decoding
 - [NeuroDecode](https://github.com/dbdq/neurodecode)
