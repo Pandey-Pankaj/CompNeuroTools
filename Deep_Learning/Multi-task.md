@@ -1,1 +1,1 @@
-1. [An Overview of Multi-Task Learning in Deep Neural Networks](https://arxiv.org/abs/1706.05098)
+1. [Emotion recognition from EEG based on multi-task learning with capsule network and attention mechanism](https://www.sciencedirect.com/science/article/abs/pii/S0010482522000956?dgcid=raven_sd_recommender_email)
