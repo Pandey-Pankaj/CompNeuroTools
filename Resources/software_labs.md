@@ -1,3 +1,3 @@
 ### US
 
-1. [Intheon Labs](https://intheon.io/)
+1. [Translational Research in Neuroimaging and Data Science (TReNDS)](https://trendscenter.org/)
