@@ -1,6 +1,7 @@
 ### fMRI
 1. [Self-Supervised Natural Image Reconstruction and Large-Scale Semantic Classification from Brain Activity](https://www.sciencedirect.com/science/article/pii/S105381192200249X)
 2. [Mind Reader: Reconstructing complex images from brain activities](https://openreview.net/pdf?id=pHdiaqgh_nf)
+3. [Reconstructing the Mind’s Eye: fMRI-to-Image with Contrastive Learning and Diffusion Priors](https://arxiv.org/pdf/2305.18274.pdf)
 
 
 
