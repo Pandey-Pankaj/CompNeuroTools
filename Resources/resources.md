@@ -17,6 +17,7 @@
 - [DL-EEG](https://dl-eeg.com/)
 - [Continual Learning](https://avalanche.continualai.org/)
 - [Brain Decode](https://braindecode.org/stable/api.html)
+- [Speech Brain Bechmarks](https://github.com/speechbrain/benchmarks/tree/main/benchmarks/MOABB)
 
 #### Machine Learning Toolbox
 - [Muti View Learning](https://mvlearn.github.io/index.html#xu-2013)
