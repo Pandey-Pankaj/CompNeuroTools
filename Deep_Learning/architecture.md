@@ -35,3 +35,6 @@
 
 ### Hybrid Deep Learning
 1. [Hybrid Deep Learning (hDL)-Based Brain-Computer Interface (BCI) Systems: A Systematic Review](https://www.mdpi.com/2076-3425/11/1/75)
+
+### KAN
+[KAN: Kolmogorov–Arnold Networks](https://arxiv.org/pdf/2404.19756)
